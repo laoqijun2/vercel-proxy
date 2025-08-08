@@ -1,6 +1,6 @@
 {
     "version": 2,
     "routes": [
-      {"src": "/(.*)","dest": "https://{url}/$1"}
+      {"src": "/(.*)","dest": "{url}/$1"}
     ]
 }
