@@ -1,6 +1,6 @@
 {
     "version": 2,
     "routes": [
-      {"src": "/(.*)","dest": "{url}/$1"}
+      {"src": "/(.*)","dest": "https://v2-api.laoqijun.top/$1"}
     ]
 }
